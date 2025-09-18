@@ -196,7 +196,7 @@ body{
     height: 350px;
     opacity: 0;
     animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
-    animation-delay: 2.1s, 3.1s;
+    animation-delay: 2.1s, 3s;
     
 }
 .home-img .glowing-circle{
@@ -223,6 +223,7 @@ body{
     height: 100%;
     background: linear-gradient(#f06,#3cf);
     border-radius: 50%;
+    animation: circleRotate 5s linear infinite;
 }
 .glowing-circle span:nth-child(1){
     filter: blur(10px);
@@ -303,5 +304,13 @@ body{
     }
     100%{
         transform: translateY(0);
+    }
+}
+@keyframes circleRotate{
+    0%{
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(360deg);
     }
 }
