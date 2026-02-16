@@ -1,56 +1,112 @@
-🌐 Personal Developer Landing Page
-📌 Overview
+Perfect 😌 now we’ll make it look **premium**, clean, and GitHub-friendly — with emojis that render correctly.
 
-This repository contains my personal developer landing page built using core web technologies (HTML, CSS, and JavaScript).
+The trick is:
+
+* Use proper Markdown headings (`#`, `##`)
+* Leave space between sections
+* Use emojis only in headings (not random places)
+
+Copy this exactly as it is 👇
+
+---
+
+# 🌐 Personal Developer Landing Page
+
+---
+
+## 📌 Overview
+
+This repository contains my personal developer landing page built using core web technologies (**HTML, CSS, and JavaScript**).
 
 The purpose of this project is to establish a clean online presence and showcase my profile, skills, and selected projects through a responsive and minimal design.
 
-This project emphasizes strong frontend fundamentals without relying on frameworks
+This project emphasizes strong frontend fundamentals without relying on frameworks.
 
-🎯 Objectives
+---
 
-Practice clean HTML structure and semantic markup
+## 🎯 Objectives
 
-Improve CSS layout and responsive design skills
+* Practice clean HTML structure and semantic markup
+* Improve CSS layout and responsive design skills
+* Implement basic interactivity using vanilla JavaScript
+* Create a minimal and professional personal branding page
 
-Implement basic interactivity using vanilla JavaScript
+---
 
-Create a minimal and professional personal branding page
+## ✨ Features
 
-✨ Features
+* Responsive layout
+* Clean and modern UI
+* Custom personal logo integration
+* Profile image integration
+* Organized project preview section
+* Structured and maintainable code
 
-Responsive layout
+---
 
-Clean and modern UI
+## 🛠 Tech Stack
 
-Custom personal logo (HP branding)
+* 🧱 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript (Vanilla JS)
 
-Profile image integration
+---
 
-Project preview section
+## 📂 Project Structure
 
-Smooth scrolling navigation
+```
+personal_landing/
+│
+├── index.html
+├── style.css
+├── script.js
+├── HP.jpg
+├── HP_new.png
+├── PP.png
+├── PP1.png
+├── personal_landing.png
+└── README.md
+```
 
-Organized asset usage
+---
 
-🛠 Tech Stack
+## 🚀 How to Run
 
-HTML5 – Page structure and semantic elements
+1. Clone the repository
+2. Open `index.html` in your browser
 
-CSS3 – Styling and layout
+No installation required (static website).
 
-JavaScript (Vanilla JS) – Basic interactivity
+---
 
-No external frameworks or libraries were used in order to strengthen core frontend fundamentals.
+## 🧠 What This Project Demonstrates
 
-🧠 What This Project Demonstrates
+* Strong frontend fundamentals
+* Clean project organization
+* Asset management practices
+* Professional documentation style
 
-Strong understanding of core web fundamentals
+---
 
-Clean project organization
+## 🔮 Future Improvements
 
-Asset management
+* Convert to React or Next.js
+* Add dark/light theme toggle
+* Improve accessibility
+* Deploy with a custom domain
 
-Professional documentation practices
+---
 
-Personal branding awareness
+## 👨‍💻 Author
+
+**Himaya Pathirage**
+Software Engineering Undergraduate
+Applied AI & Machine Learning Enthusiast
+
+GitHub: [https://github.com/HimayaPathirage](https://github.com/HimayaPathirage)
+
+---
+
+
+
+Which one?
