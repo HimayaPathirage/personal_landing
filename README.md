@@ -1,14 +1,3 @@
-Perfect 😌 now we’ll make it look **premium**, clean, and GitHub-friendly — with emojis that render correctly.
-
-The trick is:
-
-* Use proper Markdown headings (`#`, `##`)
-* Leave space between sections
-* Use emojis only in headings (not random places)
-
-Copy this exactly as it is 👇
-
----
 
 # 🌐 Personal Developer Landing Page
 
